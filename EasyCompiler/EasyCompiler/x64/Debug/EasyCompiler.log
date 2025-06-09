@@ -1,0 +1,9 @@
+﻿  main.cpp
+  objectivecode.cpp
+C:\Users\26715\Desktop\repos\EasyCompiler\src\objectivecode.cpp(232,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\26715\Desktop\repos\EasyCompiler\src\objectivecode.cpp(235,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\26715\Desktop\repos\EasyCompiler\src\objectivecode.cpp(238,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\26715\Desktop\repos\EasyCompiler\src\objectivecode.cpp(241,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  synbl.cpp
+  正在生成代码...
+  EasyCompiler.vcxproj -> C:\Users\26715\Desktop\repos\EasyCompiler\x64\Debug\EasyCompiler.exe
